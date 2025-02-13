@@ -4,17 +4,15 @@ This repository contains a collection of projects and resources related to graph
 
 ## Projects
 
-### Project 1: "Lauglitch_font_Regular" Typographic Font
+### Project 1: "Agenda 2025 'PinkyPromise' by Lauglitch" Digital Planner
 
-A regular font in `.otf` format based on my handwriting.
-
-<img src="https://github.com/user-attachments/assets/0895ed66-7f0e-4340-8202-6085d0dbe353" width="1000">
-<sub>Lauglitch_font_Regular example </sub>
-
-
-### Project 2: Agenda Digital "Agenda 2025 'PinkyPromise' by Lauglitch"
-
-A digital cute agenda in `.pdf` format that can be personalized.
+A digital cute planner in `.pdf` format that can be personalized.
+Features:
+* Page per day (including Saturdays and Sundays)
+* Weekly hourly schedule
+* Monthly and weekly planners
+* Flower motif in pastel pink tones
+* Motivational and emotional space
 
 
 <img src="https://github.com/user-attachments/assets/674b2783-41a6-419b-abe3-2a68aeb1a06a" width="330">
@@ -25,9 +23,17 @@ A digital cute agenda in `.pdf` format that can be personalized.
 <img src="https://github.com/user-attachments/assets/2b75c388-780c-4513-859f-96d9428fbb24" width="330">
 <sub>Agenda 2025 PinkyPromise by Lauglitch photo carousel </sub>
 
+### Project 2: "Lauglitch_font_Regular" Typographic Font
+
+A regular font in `.otf` format based on my handwriting.
+
+<img src="https://github.com/user-attachments/assets/0895ed66-7f0e-4340-8202-6085d0dbe353" width="1000">
+<sub>Lauglitch_font_Regular example </sub>
+
+
 ## Repository structure
 
-- **fonts/**: Font files.
+- **fonts/**: font files.
 - **docs/**: document files.
 
 
