@@ -21,14 +21,16 @@ Features:
 <img src="https://github.com/user-attachments/assets/9729a481-9df0-4709-8440-744b0607d24a" width="270">
 <img src="https://github.com/user-attachments/assets/081229ce-e82a-4d1a-9848-501ac2997bf7" width="270">
 <img src="https://github.com/user-attachments/assets/2b75c388-780c-4513-859f-96d9428fbb24" width="270">
+
 <sub>Agenda 2025 PinkyPromise by Lauglitch photo carousel </sub>
 
 ### Project 2: "Lauglitch_font_Regular" Typographic Font
 
 A regular font in `.otf` format based on my handwriting.
 
-<img src="https://github.com/user-attachments/assets/0895ed66-7f0e-4340-8202-6085d0dbe353" width="1000">
-<sub>Lauglitch_font_Regular example </sub>
+<img src="https://github.com/user-attachments/assets/0895ed66-7f0e-4340-8202-6085d0dbe353" width="810">
+
+<sub>Lauglitch_font_Regular dummy text </sub>
 
 
 ## Repository structure
