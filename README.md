@@ -28,7 +28,7 @@ Features:
 
 A regular font in `.otf` format based on my handwriting.
 
-<img src="https://github.com/user-attachments/assets/0895ed66-7f0e-4340-8202-6085d0dbe353" width="810">
+<img src="https://github.com/user-attachments/assets/0895ed66-7f0e-4340-8202-6085d0dbe353" width="820">
 
 <sub>Lauglitch_font_Regular dummy text </sub>
 
