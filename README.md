@@ -15,12 +15,12 @@ Features:
 * Motivational and emotional space
 
 
-<img src="https://github.com/user-attachments/assets/674b2783-41a6-419b-abe3-2a68aeb1a06a" width="320">
-<img src="https://github.com/user-attachments/assets/162818e8-6935-4572-bde8-517158a5dc61" width="320">
-<img src="https://github.com/user-attachments/assets/fadc8409-654e-491a-8974-89bbeca1c70f" width="320">
-<img src="https://github.com/user-attachments/assets/9729a481-9df0-4709-8440-744b0607d24a" width="320">
-<img src="https://github.com/user-attachments/assets/081229ce-e82a-4d1a-9848-501ac2997bf7" width="320">
-<img src="https://github.com/user-attachments/assets/2b75c388-780c-4513-859f-96d9428fbb24" width="320">
+<img src="https://github.com/user-attachments/assets/674b2783-41a6-419b-abe3-2a68aeb1a06a" width="310">
+<img src="https://github.com/user-attachments/assets/162818e8-6935-4572-bde8-517158a5dc61" width="310">
+<img src="https://github.com/user-attachments/assets/fadc8409-654e-491a-8974-89bbeca1c70f" width="310">
+<img src="https://github.com/user-attachments/assets/9729a481-9df0-4709-8440-744b0607d24a" width="310">
+<img src="https://github.com/user-attachments/assets/081229ce-e82a-4d1a-9848-501ac2997bf7" width="310">
+<img src="https://github.com/user-attachments/assets/2b75c388-780c-4513-859f-96d9428fbb24" width="310">
 <sub>Agenda 2025 PinkyPromise by Lauglitch photo carousel </sub>
 
 ### Project 2: "Lauglitch_font_Regular" Typographic Font
